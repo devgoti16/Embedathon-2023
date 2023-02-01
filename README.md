@@ -1,8 +1,8 @@
 # Embedathon-2023
 
 How to run the files
-1. Run the file server.py which runs the websocket server that sends and receives message
-2. Then run client1.py client2.py client3.py which receives and then send messages.
+1. Run the file server.py which runs the websocket server that send and then receive messages
+2. Then run client1.py client2.py client3.py which receive and then send messages to the server.
 
 ![Screenshot from 2023-02-01 23-32-13](https://user-images.githubusercontent.com/82582574/216126061-f51cbef6-d524-4755-9d5c-c7b40aff70d5.png)
 ![Screenshot from 2023-02-01 23-32-18](https://user-images.githubusercontent.com/82582574/216126075-f0355a32-5047-4595-b62f-d4d6206df385.png)
