@@ -2,7 +2,7 @@
 
 How to run the files
 1. Run the file server.py which runs the websocket server that send and then receive messages
-2. Then run client1.py client2.py client3.py which receive and then send messages to the server.
+2. Then run client files (client1.py, client2.py ,client3.py) which receive and then send messages to the server.
 
 Module Used:
 1. asyncio:-Asyncio is a library for asynchronous I/O in Python. It's used in server-client websocket applications to handle multiple clients simultaneously, allowing for efficient and scalable communication between the server and clients. This is achieved by using asynchronous programming techniques, where long-running tasks are executed in the background, allowing the main thread to handle other incoming requests without getting blocked. This results in faster and more responsive communication, which is especially important for real-time applications like websockets.
